@@ -1,6 +1,3 @@
-Instructions for installing EZ-Draw are available here:
-  doc/en/html/ez-install.html
+![Diagramme de Voronoi](test_300point.png)
 
-Les instructions pour installer EZ-Draw sont disponibles ici :
-  doc/fr/html/ez-install.html
-
+Ce projet correspond au TER (Travail d’Étude et de Recherche) de deuxième année de licence : implémentation en C de la construction du diagramme de Voronoi via l’algorithme de Green–Sibson. L’affichage est réalisé avec ez-draw.
